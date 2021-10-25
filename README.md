@@ -1,4 +1,4 @@
 # Info-News-Express-API
 
 to run   ==> npm start 
-if error ==> npm i 
+if error ==> npm ci
